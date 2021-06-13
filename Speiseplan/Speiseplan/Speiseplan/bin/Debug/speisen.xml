@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<ArrayOfSpeise xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Speise>
+    <Name>Schnitzel</Name>
+    <Beschreibung>Aus Wien</Beschreibung>
+    <Preis>14.2</Preis>
+    <Zutaten>Fleisch</Zutaten>
+    <Speiseart>72</Speiseart>
+    <BildAdresse>../../../bilder/wienerschnitzel.jpg</BildAdresse>
+  </Speise>
+  <Speise>
+    <Name>Bernerwürstel</Name>
+    <Beschreibung />
+    <Preis>3</Preis>
+    <Zutaten>Wurst</Zutaten>
+    <Speiseart>72</Speiseart>
+    <BildAdresse>../../../bilder/bernerwürstel.jpg</BildAdresse>
+  </Speise>
+  <Speise>
+    <Name>Burger</Name>
+    <Beschreibung />
+    <Preis>3</Preis>
+    <Zutaten>fleisch</Zutaten>
+    <Speiseart>72</Speiseart>
+    <BildAdresse>../../../bilder/burger.jpg</BildAdresse>
+  </Speise>
+  <Speise>
+    <Name>Bananenschnitte</Name>
+    <Beschreibung />
+    <Preis>2.5</Preis>
+    <Zutaten>Bananen</Zutaten>
+    <Speiseart>78</Speiseart>
+    <BildAdresse>../../../bilder/bananenschnitten.jpg</BildAdresse>
+  </Speise>
+  <Speise>
+    <Name>Mohr im Hemd</Name>
+    <Beschreibung />
+    <Preis>5</Preis>
+    <Zutaten>Hemd</Zutaten>
+    <Speiseart>78</Speiseart>
+    <BildAdresse>../../../bilder/mohrimhemd.jpg</BildAdresse>
+  </Speise>
+  <Speise>
+    <Name>Churos</Name>
+    <Beschreibung />
+    <Preis>2</Preis>
+    <Zutaten>Finger</Zutaten>
+    <Speiseart>78</Speiseart>
+    <BildAdresse>../../../bilder/churos.jpg</BildAdresse>
+  </Speise>
+  <Speise>
+    <Name>Leberknödelsuppe</Name>
+    <Beschreibung />
+    <Preis>2</Preis>
+    <Zutaten>Knödel</Zutaten>
+    <Speiseart>86</Speiseart>
+    <BildAdresse>../../../bilder/leberknoedelsuppe.jpg</BildAdresse>
+  </Speise>
+  <Speise>
+    <Name>Bruschetta</Name>
+    <Beschreibung />
+    <Preis>22</Preis>
+    <Zutaten>r</Zutaten>
+    <Speiseart>86</Speiseart>
+    <BildAdresse>../../../bilder/bruschetta.jpeg</BildAdresse>
+  </Speise>
+  <Speise>
+    <Name>Proggen</Name>
+    <Beschreibung />
+    <Preis>2</Preis>
+    <Zutaten>Poggers</Zutaten>
+    <Speiseart>86</Speiseart>
+    <BildAdresse>../../../bilder/piroggen.jpg</BildAdresse>
+  </Speise>
+</ArrayOfSpeise>

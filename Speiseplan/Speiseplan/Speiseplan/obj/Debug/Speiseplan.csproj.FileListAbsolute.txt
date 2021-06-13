@@ -1,0 +1,12 @@
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\obj\Debug\Speiseplan.csprojAssemblyReference.cache
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\obj\Debug\Speiseplan.Properties.Resources.resources
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\obj\Debug\Speiseplan.csproj.GenerateResource.cache
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\obj\Debug\Speiseplan.csproj.CoreCompileInputs.cache
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\bin\Debug\Speiseplan.exe.config
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\bin\Debug\Speiseplan.exe
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\bin\Debug\Speiseplan.pdb
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\obj\Debug\Speiseplan.Form1.resources
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\obj\Debug\Speiseplan.exe
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\obj\Debug\Speiseplan.pdb
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\obj\Debug\Speiseplan.Form2.resources
+C:\Users\jakob\Desktop\SWE Ösi\AP_Oesterreicher_Pamminger\Speiseplan\Speiseplan\obj\Debug\Speiseplan.Wochenspeiseplan.resources
